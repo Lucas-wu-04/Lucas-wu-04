@@ -1,0 +1,4 @@
+// This file is used to ignore node_modules and build output
+node_modules/
+dist/
+npm start
